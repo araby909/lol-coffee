@@ -9,3 +9,8 @@
  width: 25%;
  height: 25%;
 }
+
+//change font size
+#one {
+  font-size: 200%;
+}
